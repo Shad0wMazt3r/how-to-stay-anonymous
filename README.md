@@ -24,9 +24,11 @@ You should buy a VPN. Some of the best Paid VPNs are:
 <li>KeepSolid<li>
 <li>IPVanish<li>
 <li>CyberGhost</li>
+</ul>
 If you cant buy a VPN you can still get a free VPN but it wont be just as good
 <ul>
 <li>ProtonVPN</li>
 <li>TunnelBear</li>
 <li>Speedify</li>
 <li>Hide.me</li>
+</ul>
