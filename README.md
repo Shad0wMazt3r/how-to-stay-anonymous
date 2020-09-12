@@ -9,9 +9,8 @@ First of all Change your default search engine to DuckDuckGo. Then go to Prefere
 <li>	Privacy Badger</li>
 <li>	AdBlocker Plus</li>
 <li>	User Agents Switcher</li>
-
-Then set your history to delete after you quit firefox
-
+</ul>
+Then set your history to delete after you quit firefox<br>
 4. <b>Get a VPN</b>: VPN stands for Virtual Private Network. A VPN creates a tunnel between you and the website you are surfing. This tunnel is encrypted and thus your ISP can not see what website are you browsing. To be clear lets see what your ISP can see and what it cant.
 <b>https://www.youtube.com</b>/watch?v=QscClVcRTPY
 The bold portion is what your ISP can see. So your ISP knows that you are viewing YouTube, but not exactly what you are browsing. But not everytime it's your ISP. Sometimes you may have to work in an environment where your web history is monitored, say for example a working environment in a company or in a university. Also sometimes you need to access some websites that will raise some suspicions like wikileaks. 
