@@ -18,15 +18,15 @@ So, a VPN will essentially not tell the website address to your ISP and thus you
 <b> REMEMBER YOU NEED TO ACTUALLY TRUST YOUR VPN PROVIDER TO NOT LEAK YOUR INFORMATION</b>
 You should buy a VPN. Some of the best Paid VPNs are:
 <ul>
-<li>	Express VPN</li>
-<li>	Nord VPN<li>
-<li>	SurfShark</li>
-<li>	KeepSolid<li>
-<li>	IPVanish<li>
-<li>	CyberGhost</li>
+<li>Express VPN</li>
+<li>Nord VPN<li>
+<li>SurfShark</li>
+<li>KeepSolid<li>
+<li>IPVanish<li>
+<li>CyberGhost</li>
 If you cant buy a VPN you can still get a free VPN but it wont be just as good
 <ul>
-<li>	ProtonVPN</li>
-<li>	TunnelBear</li>
-<li>	Speedify</li>
-<li>	Hide.me</li>
+<li>ProtonVPN</li>
+<li>TunnelBear</li>
+<li>Speedify</li>
+<li>Hide.me</li>
