@@ -32,3 +32,29 @@ If you cant buy a VPN you can still get a free VPN but it wont be just as good
 <li>Speedify</li>
 <li>Hide.me</li>
 </ul>
+5.<b>Remove All Your Info on your google Account</b>: If you are following till here, you should remove all your info from google. Delete your google account and clean up its data. Delete al of your social media accounts.
+6.<b>How to get an online account</b>: Online accounts are needed on the internet but they usually breach your privacy. In this section we will understand how to get an account without breaching your privacy. 
+
+Step 1: Use a fake name
+
+Go to a fake name generator and get a fake name and register your account with the fake name and note it down. Make a complete backstory with fake date of birth, date of place nationality and all. Do not use any of your aliases on the account
+
+Step 2: Use a strong password
+
+Create a unique password for the account. This is neccessary because if someone gets access to one of your accounts, s/he cant get access to your other accounts. Take a best practice advice from me, Make a strong password and then remember a number. put the number after the password and then encrypt it (You need not actually encrypt it, you can just MD5 it). Take an example
+
+I chose a password: #SalluBhairockz
+
+I then choose a number: 144
+
+Then I add the number after the password: #SalluBhairockz144
+
+This password is enough but we need extra security. We will MD5 it.
+
+I went to an MD5 encryptor and then got the following result: b1938c0e1f4dba3afdf8c2cac24fde89
+
+The MD5 version is much better password. Now when you jot down your password, You just have to write #SalluBhairockz; you can remember the number 144 and then MD5 it just before logging in. Do not store your passwords digitally and do not use the save password functionality
+
+Step 3: Use a fake mail
+
+You can just go to 10minutemail.org and then you can get a mail for 10 min and that will be enough for you to create an account and verify it.
